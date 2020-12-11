@@ -22,4 +22,4 @@ Right now, I'm a technology freak who really loves coding. I'm really passionate
 What I believe in is
 > We live in a world where robots can drive a car, so we shouldn't just write code, we should write elegant code.
 
-[![Aravind Kumar's github stats](https://github-readme-stats.vercel.app/api?username=aravindkumaremis&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/aravindkumaremis/github-readme-stats)
+[![Aravind Kumar's github stats](https://github-readme-stats.vercel.app/api?username=aravindkumaremis&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/aravindkumaremis/github-readme-stats)
